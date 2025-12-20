@@ -39,6 +39,8 @@ The course is designed to cover essential to advanced PHP concepts, preparing st
 | **Project 02**  | MiniBlog App                         | Complete |
 | **Assignment**  | CV & Image Uploader                  | In Progress |
 | **Assignment**  | Complete Mini Blog App               | In Progress |
+| **Lec 13**      | Object Oriented Programming          | Complete |
+| **Lec 14**      | API & AJAX                           | Complete |
 
 ---
 
